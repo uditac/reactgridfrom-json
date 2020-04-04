@@ -1,0 +1,12 @@
+[
+  {
+    "EmpId": 1001,
+    "Name": "Udita",
+    "Designation": "Associate"
+  },
+  {
+    "EmpId": 1002,
+    "Name": "Sid",
+    "Designation": "System Specialist"
+  }
+]
